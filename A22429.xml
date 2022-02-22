@@ -1,0 +1,145 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King a proclamation to restraine the vnlawfull transportation of hides and leather.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1626</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22429</idno>
+            <idno type="STC">STC 8847</idno>
+            <idno type="STC">ESTC S3545</idno>
+            <idno type="EEBO-CITATION">33150433</idno>
+            <idno type="OCLC">ocm 33150433</idno>
+            <idno type="VID">28604</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22429)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 28604)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1876:80)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King a proclamation to restraine the vnlawfull transportation of hides and leather.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>2 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>By Bonham Norton and Iohn Bill, Printers to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>M.DC.XXVI [1626]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Contains ilustrated initial showing Neptune and two seahorses.</note>
+                  <note>"Giuen at His Maiesties Court at White-hall the 14. day of December, in the second yeere of his Maiesties Reigne of Great Britaine, France and Ireland."</note>
+                  <note>Reproduction of original in: Society of Antiquaries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hides and skins industry --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+               <term>Smuggling --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:28604:1"/>
+            <head>
+               <figure>
+                  <figDesc>English royal blazon</figDesc>
+               </figure>
+            </head>
+            <head>
+               <g ref="char:leaf">❧</g>By the King.</head>
+            <head type="sub">¶A Proclamation to reſtraine the vnlawfull tranſportation of Hides and Leather.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">T</seg>He Kings moſt Excellent MAIESTIE, taking knowledge of</hi> the great ſcarcity and extraordinary deareneſſe of Leather, lately growne within this Realme, and enquiring into the cauſes thereof, hath diſcouered, that, although there hath beene lately a greater num<g ref="char:EOLhyphen"/>ber of raw Hides, by reaſon of the extraordinary prouiſions for the Na<g ref="char:EOLhyphen"/>uy, then in former yeeres; yet the Markets haue not beene ſerued with Hides, as they were wont to be, but the raw Hydes are ſecretly, and by ſtealth, conueyed beyond the Seas. And His Maieſtie hath alſo beene informed, That vnder colour of a Liberty giuen heretofore, for conueying of Hydes and Leather from the Port of <hi>London</hi> vnto <hi>Hull,</hi> for ſeruice of the Northerne parts, there haue beene lately great quantities caryed away, which neuer arriued at the Port of <hi>Hull,</hi> but are conueyed into <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> or other Forraine parts. And further, that there being no Prohibition already, for the car<g ref="char:EOLhyphen"/>rying of Hydes and Leather ouer Land into <hi>Scotland,</hi> great quantities are conueyed that way, eſpecially by the City of <hi>Carlile.</hi> And alſo, that there are many and great Ingroſſers of Leather in the City of <hi>London;</hi> By which meanes the prices are kept high, and much Leather is cut out for Bootes and Shooes, and is packed vp cloſely, and ſo tranſported into <hi>France</hi> the <hi>Low Countries,</hi> and other forraine places, vnder colour of other Merchandize. And further, That vnder colour of Calue-ſkins, permitted to be tranſported by Licence, great number of Skins of greater growth, are conueyed, which would bee ſeruiceable for making of Bootes and Shooes, and other vſes. And that to colour theſe great abuſes, (which are ſo generally preiudiciall to all ſorts of people) either the offenders themſelues, or ſome other ill diſpoſed perſons, doe falſly publiſh, that there haue beene Licences giuen by His Maieſtie, contrary to the Lawes, to tranſport great quantities of Leather, and raw Hydes, where, in trueth, no ſuch Licence hath beene granted to any, nor ſo much as thought vpon to be granted. All which, being made knowne to His Maieſty, His High<g ref="char:EOLhyphen"/>neſſe, out of His Princely care and prouidence, for the generall good of His people, hath thought fit (by the aduice of His Priuie Counſell) to publiſh and declare, And doth heereby publiſh and de<g ref="char:EOLhyphen"/>clare His Royall Pleaſure and Commandement, concerning the Premiſſes, in manner following.</p>
+            <p>That from hencefoorth no perſon whatſoeuer, either naturall borne Subiect, Denizen, or ſtranger, doe preſume to export out of this Kingdome, any raw Hydes, or any Leather, either into any Forraine parts beyond the Seas, or into <hi>Scotland,</hi> by colour of carrying Calue-ſkins, or o<g ref="char:EOLhyphen"/>therwiſe.</p>
+            <pb facs="tcp:28604:2"/>
+            <p>And for the better preuention of the like abuſes hereafter, (which otherwiſe cannot poſſibly be preuented) His Maieſty doth further ſtraitly charge and command, That no perſon, vnder co<g ref="char:EOLhyphen"/>lour of carrying or conueying of Hydes or Leather, from one part of this Kingdome to another, doe carry the ſame by Water, or put the ſame into any Ship, Barge, Boat, or other Veſſell, to carry the ſame by Water.</p>
+            <p>And further, that no Shoomaker, Currier, or other Artificer, doe buy any Leather, but ſuch onely as he ſhall conuert into made Wares, and ſhall not bee in any ſort a factor or agent, to buy any leather for any Merchant or other perſon, who ſhall after tranſport the ſame into any parts beyond the Seas, or into the Realme of <hi>Scotland.</hi> And that they, nor any of them, bee any In<g ref="char:EOLhyphen"/>groſſer of hides or leather, whereby, or by meanes or occaſion whereof, the prices of hides or lea<g ref="char:EOLhyphen"/>ther may bee enhaunced, or the Markets be vnfurniſhed or vnſtored. All which his Maieſty doth ſtraitly charge and Command, to bee duely obſerued by all ſorts of people, in their ſeuerall pla<g ref="char:EOLhyphen"/>ces and degrees, vpon paine, not onely to incurre the vttermoſt penalties and puniſhments, which by the Lawes and Statutes of this Realme, may be inflicted vpon the offenders, but alſo vpon further paine of his Maieſties high diſpleaſure, and ſuch further puniſhment as by his Maieſties Prerogatiue Royall, or by the ſeuereſt Cenſure of the Court of Starre Chamber can bee impoſed vpon them, for ſo great a contempt.</p>
+            <p>And to the end, that all others may take heede how they doe hereafter either of malice or raſh<g ref="char:EOLhyphen"/>neſſe, publiſh ſuch falſe and fained rumoures, tending ſo much to the ſlander of his Maieſties go<g ref="char:EOLhyphen"/>uerment, His Maieſtie doeth hereby ſtraitly admoniſh and Command, that no perſon pre<g ref="char:EOLhyphen"/>ſume to publiſh or report ſuch falſe rumours, in this or in any thing of the like kinde. And to the intent, that ſuch as are willing to take paines to diſcouer the offenders and offences aforeſaid, either already committed, or hereafter to bee committed in any kinde concerning the premiſſes, for the generall good of the Common wealth, may haue fit encouragement and recompence, His Maieſtie doeth hereby promiſe and vndertake, That whoſoeuer ſhall firſt diſcouer to the Lord Treaſurer of <hi>England,</hi> or Barons of the Exchequer, any of the ſaid offenders or offences, either in conueying away of any hides or leather, or engroſſing the ſame, or in being the inſtruments or aſ<g ref="char:EOLhyphen"/>ſiſtants thereunto, or in rayſing or publiſhing ſuch falſe rumours or reports, as aforeſaid, whereby the offenders ſhall or may be brought to receiue due puniſhment for ſuch their offences, that euery perſon which ſhall ſo firſt diſcouer the ſame (beſides ſuch part of the fines and forfeitures as by Law ſhall belong vnto him) ſhall haue a liberall reward from his Maieſtie, out of ſuch part of the offenders fines or forfeitures which ſhall accrue to his Maieſtie, at the good diſcretion of the Lord Treaſurer of <hi>England,</hi> or Barons of the Exchequer, for the time being.</p>
+            <closer>
+               <dateline>Giuen at His Maieſties Court at White-hall, <date>the 14. day of December, in the ſecond yeere of his Maieſties Reigne of Great Britaine, France and Ireland.</date>
+               </dateline>
+               <lb/> God ſaue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶Imprinted at London by Bonham Norton and Iohn Bill, Printers to the Kings moſt Excellent Maieſtie. M.DC.XXVI.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
